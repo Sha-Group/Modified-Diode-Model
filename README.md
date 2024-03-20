@@ -1,6 +1,6 @@
 # Modified Diode Model
 
-NEWS: 🔥Modified Diode Model for Perovskite Solar Cells is accepted by Solar RRL!🔥
+NEWS: 🔥Modified Diode Model for Perovskite Solar Cells is Accepted by Solar RRL!🔥
 
 [Quantifying Nonradiative Recombination and Resistive Losses in Perovskite Photovoltaics: A Modified Diode Model Approach](https://onlinelibrary.wiley.com/doi/full/10.1002/solr.202300722)
 
