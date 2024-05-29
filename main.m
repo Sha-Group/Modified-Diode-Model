@@ -28,7 +28,7 @@ fileName = "/Experimental Data/passivated_reverse_scan.txt"; % Load data
 
 dataJV = DataPreconditioner(fileName).dataJV; % Data preconditioning
 
-retrievedParams = fittingMDB(perov, dataJV); % MDB model fitting
+retrievedParams = fittingMD(perov, dataJV); % MDB model fitting
 
 calJV = solver(perov, dataJV, retrievedParams); % Numerically solve JV
 
